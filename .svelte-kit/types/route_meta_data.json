@@ -1,0 +1,6 @@
+{
+	"/": [],
+	"/api/newsletter": [
+		"src/routes/api/newsletter/+server.ts"
+	]
+}
